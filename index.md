@@ -28,9 +28,28 @@
 ![fast](/Images/image015.jpg)
 
 ![fast](/Images/image016.jpg)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##資料聯合Federation DataSource
+
+是一個聯合資料源，它集成了不同的數據源並通過聯合查詢提供統一的資料訪問。
+建立以下類型的聯合查詢：
+Join
+根據共享的列組合來自兩個或多個表的行。連接類型指定在兩個表中具有匹配值的記錄。
+Union / UnionAll
+Union查詢將兩個或多個表中的行組合成一個數據集，並刪除合併表中的重複行。UnionAll查詢的操作類似於Union ，但是當它們包含相同的數據時，它們會復制來自不同表的行。您只能為包含同名列的數據源創建聯合查詢。此類列的數據類型應進行隱式轉換。
+Transformation
+如果數據源包含複雜的列（對象），您可以轉換其屬性以在平面視圖中將它們顯示為單獨的列。如果其中一個數據列是一個數組，您可以展開它的值並為數組的每個元素顯示一個新的數據行。展開柱時，您可以將其展平並創建展平視圖。
+
+![fast](/Images/image017.jpg)
+
+##檔案目錄轉資料表
+
+![fast](/Images/image018.jpg)
+
+#資料處理&轉換
+
+##資料處理程序
+
 
 ```markdown
 Syntax highlighted code block
