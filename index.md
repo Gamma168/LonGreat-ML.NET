@@ -4,13 +4,13 @@
 
 | 姓名  | ename  | 單位 |  e-mail |
 | -------|------ | -------|------ |
-| 黃博翰 | Aaron | 清大研究生 | polomarco159@gmail.com  |
-| 張楟穎 | Lisa | 虎尾科大   | lisa911015@gmail.com  |
-| 張長豐 | Gamma | 豐碩科技   | gamma168@gmail.com  |
+| 黃博翰 | Aaron | 清大研究生 | [polomarco159@gmail.com](polomarco159@gmail.com)  |
+| 張楟穎 | Lisa | 虎尾科大   | [lisa911015@gmail.com](lisa911015@gmail.com)  |
+| 張長豐 | Gamma | 豐碩科技   | [gamma168@gmail.com](gamma168@gmail.com)  |
 
 # 簡介
 
-NET6 & ML.NET 17.1
+[NET6](https://docs.microsoft.com/dotnet/core/whats-new/dotnet-6) & [ML.NET 17.1](https://docs.microsoft.com/dotnet/machine-learning/tutorials/) & [devexpress](https://www.devexpress.com/)
 
 支援所有資料來源，無須撰寫程式碼
 
