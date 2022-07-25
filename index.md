@@ -19,7 +19,7 @@
 
 ![fast](/Images/image013.png)
 
-#資料來源
+# 資料來源
 
 幾乎涵蓋市面所有資料型態，資料聯合Federation DataSource提供不同資料源合併
 
@@ -29,7 +29,7 @@
 
 ![fast](/Images/image016.jpg)
 
-##資料聯合Federation DataSource
+## 資料聯合Federation DataSource
 
 是一個聯合資料源，它集成了不同的數據源並通過聯合查詢提供統一的資料訪問。
 建立以下類型的聯合查詢：
@@ -42,43 +42,55 @@ Transformation
 
 ![fast](/Images/image017.jpg)
 
-##檔案目錄轉資料表
+## 檔案目錄轉資料表
 
 ![fast](/Images/image018.jpg)
 
-#資料處理&轉換
+# 資料處理&轉換
 
-##資料處理程序
+## 資料處理程序
 
+引導程式	BootstrapSample
 
-```markdown
-Syntax highlighted code block
+快取	Cache
 
-# 簡介
+欄位篩選	FilterRowsByColumn
 
-支援所有資料來源，無須撰寫程式碼
+按關鍵欄位分數篩選	FilterRowsByKeyColumnFraction
 
+缺失值欄篩選	FilterRowsByMissingValues
 
-## Header 2
-### Header 3
+隨機資料列	ShuffleRows
 
-- Bulleted
-- List
+跳過資料列	SkipRows
 
-1. Numbered
-2. List
+擷取資料列	TakeRows
 
-**Bold** and _Italic_ and `Code` text
+## 資料轉換函式
 
-[Link](url) and ![Image](src)
-```
+![Transformation](/Images/Transformation.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# 特徵與標籤
 
-### Jekyll Themes
+拖拉欄位設定
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gamma168/LonGreat-ML.NET/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![fast](/Images/image019.jpg)
 
-### Support or Contact
+# 訓練模型
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Trainer](/Images/Trainer.png)
+
+# 評估
+
+評估紀錄與相關分數紀錄
+
+![fast](/Images/image020.jpg)
+
+# 預測
+
+批次預測與輸入預測
+
+# 預測應用
+
+訓練模型產生zip檔，程式載入使用
+
