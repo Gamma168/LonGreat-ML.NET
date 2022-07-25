@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome LonGreat ML.NET Community
 
 You can use the [editor on GitHub](https://github.com/Gamma168/LonGreat-ML.NET/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
