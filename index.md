@@ -1,6 +1,6 @@
 ![Logo](/Images/image001.jpg)
 
-Aaron polomarco159@gmail.com(polomarco159@gmail.com)
+Aaron polomarco159@gmail.com
 
 Lisa lisa911015@gmail.com
 
