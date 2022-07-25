@@ -10,7 +10,7 @@
 
 # 簡介
 
-[NET6](https://docs.microsoft.com/dotnet/core/whats-new/dotnet-6) & [ML.NET 17.1](https://docs.microsoft.com/dotnet/machine-learning/tutorials/) & [devexpress](https://www.devexpress.com/)
+[NET6](https://docs.microsoft.com/dotnet/core/whats-new/dotnet-6) & [ML.NET 17.1](https://docs.microsoft.com/dotnet/machine-learning/tutorials/) & [Devexpress](https://www.devexpress.com/)
 
 支援所有資料來源，無須撰寫程式碼
 
