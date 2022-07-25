@@ -1,6 +1,8 @@
 ![Logo](/Images/image001.jpg)
 
-[簡介PDF](/LonGreat ML.NET.pdf)
+Aaron polomarco159@gmail.com
+
+Gamma gamma168@gmail.com
 
 # 簡介
 
