@@ -1,5 +1,7 @@
 ![Logo](/Images/image001.jpg)
 
+[簡介PDF](/LonGreat ML.NET.pdf)
+
 # 簡介
 
 支援所有資料來源，無須撰寫程式碼
