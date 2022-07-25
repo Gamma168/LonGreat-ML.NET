@@ -8,7 +8,7 @@ Gamma gamma168@gmail.com
 
 # 簡介
 
-NET6 & MLNET 17.1
+NET6 & ML.NET 17.1
 
 支援所有資料來源，無須撰寫程式碼
 
