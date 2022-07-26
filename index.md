@@ -3,7 +3,8 @@
 # 相關連結
 
 [簡介](LonGreatMLNET.pdf)
-[下載](LonGreatMLNET.pdf)
+[下載程式](LonGreatMLNET.pdf)
+[使用手冊](LonGreatMLNET.pdf)
 [回饋反映](https://www.facebook.com/LonGreatMLNET)
 
 # 開發團隊
