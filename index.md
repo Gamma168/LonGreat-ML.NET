@@ -5,7 +5,7 @@
 [簡介](Introduction.pdf)
 [下載程式](LonGreatMLNET.pdf)
 [使用手冊](LonGreatMLNET.pdf)
-[回饋反映](https://fb.longreat.net)
+[回饋反映](http://fb.longreat.net)
 
 # 開發團隊
 
