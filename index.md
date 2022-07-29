@@ -2,10 +2,10 @@
 
 # 相關連結
 
-[簡介](LonGreatMLNET.pdf)
+[簡介](Introduction.pdf)
 [下載程式](LonGreatMLNET.pdf)
 [使用手冊](LonGreatMLNET.pdf)
-[回饋反映](https://www.facebook.com/LonGreatMLNET)
+[回饋反映](https://fb.longreat.net)
 
 # 開發團隊
 
