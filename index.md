@@ -13,6 +13,8 @@
 
 [回饋反映](http://fb.longreat.net)
 
+[YouTube](http://youtube.longreat.net)
+
 # 開發團隊
 
 | 姓名  | ename  | 單位 |  e-mail |
