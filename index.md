@@ -3,7 +3,9 @@
 # 相關連結
 
 [簡介](/CHT/Introduction.pdf)
-[下載程式](LonGreatMLNET.pdf)
+
+下載程式解壓後請執行 LonGreatMLNET.exe
+
 [回饋反映](http://fb.longreat.net)
 
 # 開發團隊
