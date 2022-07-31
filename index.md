@@ -2,9 +2,8 @@
 
 # 相關連結
 
-[簡介](Introduction.pdf)
+[簡介](/CHT/Introduction.pdf)
 [下載程式](LonGreatMLNET.pdf)
-[使用手冊](LonGreatMLNET.pdf)
 [回饋反映](http://fb.longreat.net)
 
 # 開發團隊
