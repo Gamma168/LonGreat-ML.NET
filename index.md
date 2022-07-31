@@ -9,7 +9,7 @@
 下載解壓([LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP))後請執行 LonGreatMLNET.exe
 
 [教學範例文件](/CHT/TeachingExample.pdf)
-[教學範例檔案](/CHT/TeachingExample.zip)
+[教學範例檔案](/TeachingExample.zip)
 
 [回饋反映](http://fb.longreat.net)
 
