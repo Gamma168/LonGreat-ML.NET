@@ -4,7 +4,7 @@
 
 [簡介](/CHT/Introduction.pdf)
 
-下載程式解壓後請執行 LonGreatMLNET.exe
+下載解壓(LonGreatMLNET-X64-ZIP)後請執行 LonGreatMLNET.exe
 
 [回饋反映](http://fb.longreat.net)
 
