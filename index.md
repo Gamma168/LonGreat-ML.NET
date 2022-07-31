@@ -4,7 +4,7 @@
 
 [簡介](/CHT/Introduction.pdf)
 
-[安裝]
+安裝
 
 下載解壓([LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP))後請執行 LonGreatMLNET.exe
 
