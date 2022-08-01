@@ -11,7 +11,7 @@
 解壓參考  [Winrar](https://www.win-rar.com/)
 
 
-[教學範例文件](/cht/)
+[教學範例文件](/CHT/)
 
 [教學範例檔案](/TeachingExample.zip)
 
