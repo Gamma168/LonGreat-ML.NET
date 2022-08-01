@@ -11,7 +11,8 @@
 解壓參考  [Winrar](https://www.win-rar.com/)
 
 
-[教學範例文件](/TeachingExample.pdf)
+[教學範例文件](/cht/)
+
 [教學範例檔案](/TeachingExample.zip)
 
 [回饋反映](http://fb.longreat.net)
