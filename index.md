@@ -13,7 +13,7 @@
 
 [回饋反映](http://fb.longreat.net)
 
-[![Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/2048px-YouTube_social_white_circle_%282017%29.svg.png](https://icons.iconarchive.com/icons/graphics-vibe/classic-3d-social/48/youtube-icon.png))](http://youtube.longreat.net)
+[![Logo]([](/youtube.png))](http://youtube.longreat.net)
 
 
 # 開發團隊
