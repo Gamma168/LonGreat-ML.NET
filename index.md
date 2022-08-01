@@ -6,7 +6,7 @@
 
 安裝
 
-下載[解壓(Winrar)]([/CHT/Introduction.pdf](https://www.win-rar.com/))([LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP))後請執行 LonGreatMLNET.exe
+下載[解壓(Winrar)](https://www.win-rar.com/)[LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP)後請執行 LonGreatMLNET.exe
 
 
 [教學範例文件](/TeachingExample.pdf)
