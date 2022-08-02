@@ -9,7 +9,7 @@
 下載解壓---後請執行 LonGreatMLNET.exe 
 
 [Google Drive](https://drive.google.com/drive/folders/1hKkSbSPDgbxj1nO_q3el6O-_fNDWs9qS?usp=sharing)
-
+或
 [LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP)
 
 
