@@ -8,8 +8,10 @@
 
 下載解壓---後請執行 LonGreatMLNET.exe 
 
-[Google Drive]
-或
+[Google Drive](http://drive.longreat.net)
+
+[百度網盤](http://baidu.longreat.net)
+
 [LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP)
 
 
