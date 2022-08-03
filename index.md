@@ -12,9 +12,6 @@
 
 [![baidu](2dCode.png)](http://baidu.longreat.net)
 
-[LonGreatMLNET-X64-ZIP](/LonGreatMLNET-X64-ZIP)
-
-
 
 解壓參考  [Winrar](https://www.win-rar.com/)
 
