@@ -16,7 +16,7 @@
 解壓參考  [Winrar](https://www.win-rar.com/)
 
 
-[教學範例文件](/CHT)
+[教學範例文件](https://drive.google.com/drive/folders/1XUF5HQbWiac2Z4qwqRIfWqDGCTfffruw?usp=sharing)
 
 [教學範例檔案](/TeachingExample.zip)
 
