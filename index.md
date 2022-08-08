@@ -6,7 +6,7 @@
 
 安裝
 
-下載解壓LonGreatMLNET-X64.7z---後請執行 LonGreatMLNET.exe 
+下載解壓LonGreatMLNET-X64.7z或LonGreatMLNET-X86.7z---後請執行 LonGreatMLNET.exe 
 
 [Google Drive](http://drive.longreat.net)
 
