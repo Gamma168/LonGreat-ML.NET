@@ -29,7 +29,6 @@
 
 | 姓名  | ename  | 單位 |  e-mail |
 | -------|------ | -------|------ |
-| 黃柏翰 | Aaron | 清大研究生 | [polomarco159@gmail.com](polomarco159@gmail.com)  |
 | 張楟穎 | Lisa | 虎尾科大   | [lisa911015@gmail.com](lisa911015@gmail.com)  |
 | 游金涵 |  | 宜蘭大學   | [huagui419@gmail.com](huagui419@gmail.com)  |
 | 張長豐 | Gamma |    | [gamma168@gmail.com](gamma168@gmail.com)  |
